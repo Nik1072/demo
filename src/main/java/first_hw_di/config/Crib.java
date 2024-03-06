@@ -1,4 +1,4 @@
-package first_hw_di.Config;
+package first_hw_di.config;
 import lombok.extern.log4j.Log4j2;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

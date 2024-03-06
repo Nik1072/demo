@@ -1,4 +1,4 @@
-package first_hw_di.Config;
+package first_hw_di.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;

@@ -1,5 +1,5 @@
-package first_hw_di.Component;
-import first_hw_di.Config.Information;
+package first_hw_di.component;
+import first_hw_di.config.Information;
 import org.springframework.stereotype.Component;
 @Component
 public class StudentWorkA {
